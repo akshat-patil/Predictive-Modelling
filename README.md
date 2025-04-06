@@ -1,4 +1,4 @@
-# 🚀 Data Science Projects - Academor Internship 💻
+# 🚀 Data Science Projects 💻
 
 Welcome to the repository showcasing the data science projects I worked on during my internship at Academor! These projects represent practical applications of data science, machine learning, and data visualization, tackling real-world problems with structured methodologies and innovative approaches.
 
